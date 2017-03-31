@@ -7,9 +7,9 @@ Instructors: Brian Kulis and Kate Saenko. [Course syllabus](https://docs.google.
 [Problem Set 1](https://gist.github.com/MInner/eb6330a655a5c37b82e15d1c84fd4cd0)
 [Solutions](https://gist.github.com/MInner/64d737a044389039458e409cd3da17e8)
 
-[Problem Set 2](https://github.com/kunhe/cs591s2/blob/master/pset2.ipynb)
-[Solutions](https://github.com/kunhe/cs591s2/blob/master/pset2_solutions.ipynb)
+[Problem Set 2](https://github.com/kunhe/cs591s2/blob/master/pset2/pset2.ipynb)
+[Solutions](https://github.com/kunhe/cs591s2/blob/master/pset2/solutions.ipynb)
 
-[Problem Set 3](https://github.com/kunhe/cs591s2/blob/master/pset3.ipynb)
+[Problem Set 3](https://github.com/kunhe/cs591s2/blob/master/pset3/pset3.ipynb)
 
 [Problem Set 4](https://github.com/kunhe/cs591s2/blob/master/pset4/pset4.ipynb)
