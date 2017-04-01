@@ -52,7 +52,8 @@ def svhn_dataset_generator(dataset_name, batch_size):
     
     for slice_i in range(int(math.ceil(data_len / batch_size))):
         idx = slice_i * batch_size
-        X_batch = X_all_padded[idx:idx + batch_size]
+        # X_batch = X_all_padded[idx:idx + batch_size] 
+        X_batch = X_all_padded[idx:idx + batch_size]*255  # bugfix, thanks Zezhou Sun!
         y_batch = np.ravel(y_all_padded[idx:idx + batch_size])
         yield X_batch, y_batch
 
